@@ -1,0 +1,7 @@
+C:\Users\vidri\source\repos\PracticWork1\PracticWork1\bin\Debug\PracticWork1.exe.config
+C:\Users\vidri\source\repos\PracticWork1\PracticWork1\bin\Debug\PracticWork1.exe
+C:\Users\vidri\source\repos\PracticWork1\PracticWork1\bin\Debug\PracticWork1.pdb
+C:\Users\vidri\source\repos\PracticWork1\PracticWork1\obj\Debug\PracticWork1.csprojAssemblyReference.cache
+C:\Users\vidri\source\repos\PracticWork1\PracticWork1\obj\Debug\PracticWork1.csproj.CoreCompileInputs.cache
+C:\Users\vidri\source\repos\PracticWork1\PracticWork1\obj\Debug\PracticWork1.exe
+C:\Users\vidri\source\repos\PracticWork1\PracticWork1\obj\Debug\PracticWork1.pdb
